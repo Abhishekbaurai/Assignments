@@ -1,0 +1,16 @@
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.AssemblyInfoInputs.cache
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.AssemblyInfo.cs
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.exe
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.deps.json
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.runtimeconfig.json
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.runtimeconfig.dev.json
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.dll
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\ref\TimeInWords.dll
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\bin\Debug\net5.0\TimeInWords.pdb
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.dll
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\ref\TimeInWords.dll
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.pdb
+C:\Users\abc\source\repos\TimeInWords\TimeInWords\obj\Debug\net5.0\TimeInWords.genruntimeconfig.cache
