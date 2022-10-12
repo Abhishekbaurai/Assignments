@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Assignment\\Assignments\\TimeInWords\\TimeInWords\\TimeInWords.csproj": {}
+    "C:\\Users\\abc\\source\\repos\\TimeInWords\\TimeInWords\\TimeInWords.csproj": {}
   },
   "projects": {
-    "E:\\Assignment\\Assignments\\TimeInWords\\TimeInWords\\TimeInWords.csproj": {
+    "C:\\Users\\abc\\source\\repos\\TimeInWords\\TimeInWords\\TimeInWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Assignment\\Assignments\\TimeInWords\\TimeInWords\\TimeInWords.csproj",
+        "projectUniqueName": "C:\\Users\\abc\\source\\repos\\TimeInWords\\TimeInWords\\TimeInWords.csproj",
         "projectName": "TimeInWords",
-        "projectPath": "E:\\Assignment\\Assignments\\TimeInWords\\TimeInWords\\TimeInWords.csproj",
+        "projectPath": "C:\\Users\\abc\\source\\repos\\TimeInWords\\TimeInWords\\TimeInWords.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "E:\\Assignment\\Assignments\\TimeInWords\\TimeInWords\\obj\\",
+        "outputPath": "C:\\Users\\abc\\source\\repos\\TimeInWords\\TimeInWords\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

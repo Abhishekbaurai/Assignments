@@ -1,5 +1,4 @@
-﻿//time in words
-using System;
+﻿using System;
 
 namespace TimeInWords
 {
@@ -7,7 +6,7 @@ namespace TimeInWords
     {
         static void Main(string[] args)
         {
-            // Input Time in 12 Hour Format 
+            // Input Time in 12 Hour Format
             int hr, min;
             hr = Convert.ToInt32(Console.ReadLine());
             min = Convert.ToInt32(Console.ReadLine());
